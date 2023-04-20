@@ -14,6 +14,7 @@ char c1=Character.toUpperCase(c);
 String s1= s.replace(c, c1);
 
 System.out.println(s1);
+		System.out.println("done");
 
 
 
